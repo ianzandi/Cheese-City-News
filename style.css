@@ -1,0 +1,21 @@
+h1 {
+    color: #9fa8a3;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    background-color: #e3e0cf;
+}
+
+.toplinks {
+    display: flex;
+    justify-content: end;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
